@@ -5,7 +5,7 @@ i don't know why but , everything is working fine in my laptop when opened throu
 i also done the build and deploy operations of vite/react but still it is not working properly in deploy live link.
 
 
-this is the video link when opened through localhost.
+this is the video link when opened through localhost. Maybe, because it is showing "deploying is n progress".
 
 Kindly consider my request as a project.
 
