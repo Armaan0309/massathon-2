@@ -1,8 +1,12 @@
-# React + Vite
+# Problem Statement - 2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+please click on Home page or favorites page.
+i don't know why but , everything is working fine in my laptop when opened through the "npm run dev".
+i also done the build and deploy operations of vite/react but still it is not working properly in deploy live link.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+this is the video link when opened through localhost.
+
+Kindly consider my request as a project.
+
+https://drive.google.com/file/d/1fqOkUy8-1Ewo3BpFR7qbTVmuZ9zabOuV/view?usp=sharing
